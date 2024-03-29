@@ -7,7 +7,7 @@ import aiogram
 import asyncio
 import os
 
-// second second
+// third second
 config = configparser.ConfigParser()
 config.read("config.ini", encoding="utf-8")
 bot = aiogram.bot.Bot(config["Bot"]["token"])
